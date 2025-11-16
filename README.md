@@ -12,7 +12,6 @@ This is a web-based **Simon Game** implemented with JavaScript/HTML/CSS.
 
 - HTML / CSS / JavaScript  
 - Uses DOM manipulation and event listeners  
-- Hosted on GitHub Pages
 
 ## 🖼️ Screenshot
 ![Simon Game Start](https://github.com/user-attachments/assets/acb92257-556f-4257-a978-bfc9df69bf71)
